@@ -4,9 +4,11 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main - main function
+ * main - entry point
  *
- * return: always 0
+ * Description: determines if a number is positive or negative or zero
+ *
+ * Return: always 0
  */
 int main(void)
 {
