@@ -1,1 +1,1 @@
-pointers is a go
+pointing stars
